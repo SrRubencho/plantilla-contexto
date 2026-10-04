@@ -16,4 +16,4 @@ Un solo archivo de texto para que ChatGPT, Claude o cualquier otra herramienta d
 
 *A minimal, tool-agnostic context file for people using ChatGPT or Claude, in Spanish.*
 
-Rubén Durango ([@srrubencho](https://github.com/SrRubencho)). Úsenla y modifíquenla libremente.
+Rubén Durango ([@srrubencho](https://github.com/SrRubencho)). Licencia [CC BY 4.0](LICENSE): úsenla y modifíquenla libremente; si la comparten, citen la fuente.

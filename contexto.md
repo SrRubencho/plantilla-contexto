@@ -8,7 +8,7 @@
 > 4. Al cerrar una conversación en la que hubo avances, pedir que proponga cambios. Decidir qué entra, actualizar el original y volver a subirlo.
 >
 > Los ejemplos entre paréntesis son solo guía; borrarlos al llenar.
-> Plantilla de Rubén Durango (@srrubencho), rubendurango.com. Úsenla y modifíquenla libremente.
+> Plantilla de Rubén Durango (@srrubencho), rubendurango.com. Licencia CC BY 4.0: úsenla y modifíquenla libremente.
 
 Última actualización: AAAA-MM-DD
 
